@@ -1,13 +1,13 @@
-package com.portfolio.jdp;
+package com.portfolio.jp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JdpApplication {
+public class JpApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JdpApplication.class, args);
+		SpringApplication.run(JpApplication.class, args);
 	}
 
 }
